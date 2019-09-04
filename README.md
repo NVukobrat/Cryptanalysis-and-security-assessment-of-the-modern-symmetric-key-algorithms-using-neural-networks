@@ -16,3 +16,5 @@ from which TensorFlow is the major for training the neural network, while PyCryp
 To execute experiments as optimal as possible, CUDA drivers are used alongside GPU drivers. This enables TensorFlow to do all calculations directly on GPU and by that to speed up the training process of the network.
 
 For having an easier way for adjustment and setup, Docker is used with Nvidia support. This enables an isolated environment for development and testing.
+
+### Results
