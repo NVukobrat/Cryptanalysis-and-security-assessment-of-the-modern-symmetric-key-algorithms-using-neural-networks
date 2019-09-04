@@ -1,3 +1,5 @@
+### Summary
+
 ### Development environment
 Code for generating the dataset, as well as the code for training the neural networks is developed on Ubuntu 19.04 OS. Following hardware specification consists of:
 - CPU: Intel Core i7-4770 CPU @ 3.40GHz x 8
