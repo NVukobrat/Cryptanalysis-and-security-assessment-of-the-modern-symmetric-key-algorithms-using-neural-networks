@@ -1,6 +1,6 @@
-## Summary
+# Summary
 
-## Development environment
+# Development environment
 Code for generating the dataset, as well as the code for training the neural networks is developed on Ubuntu 19.04 OS. Following hardware specification consists of:
 - CPU: Intel Core i7-4770 CPU @ 3.40GHz x 8
 - GPU karta: GeForce GTX 1080 Ti/PCIe/SSE2
@@ -19,4 +19,54 @@ To execute experiments as optimal as possible, CUDA drivers are used alongside G
 
 For having an easier way for adjustment and setup, Docker is used with Nvidia support. This enables an isolated environment for development and testing.
 
-## Results
+# Results
+### Character
+#### Simple Crypt
+<table>
+	<tr>
+		<td>Simple Crypt train results on single character dataset.</td>
+		<td><img src="assets/images/SC_Char_Train.png" alt=""></td>
+	</tr>
+</table>
+
+#### AES
+<table>
+	<tr>
+		<td>Simple Crypt test results on single character dataset.</td>
+		<td><img src="assets/images/SC_Char_Test.png" alt=""></td>
+	</tr>
+</table>
+
+#### DES
+<table>
+	<tr>
+		<td>AES train results on single character dataset.</td>
+		<td><img src="assets/images/AES_Char_Train.png" alt=""></td>
+	</tr>
+</table>
+
+### Word
+#### Simple Crypt
+#### AES
+#### DES
+
+### Sentence
+#### Simple Crypt
+#### AES
+#### DES
+
+### Essay
+#### Simple Crypt
+##### Full cipher length
+##### Partial cipher length
+##### Random partial cipher length
+
+#### AES
+##### Full cipher length
+##### Partial cipher length
+##### Random partial cipher length
+
+#### DES
+##### Full cipher length
+##### Partial cipher length
+##### Random partial cipher length
