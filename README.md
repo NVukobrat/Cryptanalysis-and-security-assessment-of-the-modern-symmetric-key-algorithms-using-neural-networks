@@ -66,26 +66,216 @@ For having an easier way for adjustment and setup, Docker is used with Nvidia su
 
 ### Word
 #### Simple Crypt
+<table>
+	<tr>
+		<td>Simple Crypt train results on single word dataset.</td>
+		<td><img src="assets/images/SC_Word_Train.png" alt=""></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td>Simple Crypt test results on single word dataset.</td>
+		<td><img src="assets/images/SC_Word_Test.png" alt=""></td>
+	</tr>
+</table>
+
 #### AES
+<table>
+	<tr>
+		<td>AES train results on single word dataset.</td>
+		<td><img src="assets/images/AES_Word_Train.png" alt=""></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td>AES test results on single word dataset.</td>
+		<td><img src="assets/images/AES_Word_Test.png" alt=""></td>
+	</tr>
+</table>
+
 #### DES
+<table>
+	<tr>
+		<td>DES train results on single word dataset.</td>
+		<td><img src="assets/images/DES_Word_Train.png" alt=""></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td>DES test results on single word dataset.</td>
+		<td><img src="assets/images/DES_Word_Test.png" alt=""></td>
+	</tr>
+</table>
 
 ### Sentence
 #### Simple Crypt
+<table>
+	<tr>
+		<td>Simple Crypt train results on single sentence dataset.</td>
+		<td><img src="assets/images/SC_Sentence_Train.png" alt=""></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td>Simple Crypt test results on single sentence dataset.</td>
+		<td><img src="assets/images/SC_Sentence_Test.png" alt=""></td>
+	</tr>
+</table>
+
 #### AES
+<table>
+	<tr>
+		<td>AES train results on single sentence dataset.</td>
+		<td><img src="assets/images/AES_Sentence_Train.png" alt=""></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td>AES test results on single sentence dataset.</td>
+		<td><img src="assets/images/AES_Sentence_Test.png" alt=""></td>
+	</tr>
+</table>
+
 #### DES
+<table>
+	<tr>
+		<td>DES train results on single sentence dataset.</td>
+		<td><img src="assets/images/DES_Sentence_Train.png" alt=""></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td>DES test results on single sentence dataset.</td>
+		<td><img src="assets/images/DES_Sentence_Test.png" alt=""></td>
+	</tr>
+</table>
 
 ### Essay
 #### Simple Crypt
 ##### Full cipher length
+<table>
+	<tr>
+		<td>Simple Crypt train results on full cipher length.</td>
+		<td><img src="assets/images/SC_FCL_Train.png" alt=""></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td>Simple Crypt test results on full cipher length.</td>
+		<td><img src="assets/images/SC_FCL_Test.png" alt=""></td>
+	</tr>
+</table>
+
 ##### Partial cipher length
+<table>
+	<tr>
+		<td>Simple Crypt train results on partial cipher length.</td>
+		<td><img src="assets/images/SC_PCL_Train.png" alt=""></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td>Simple Crypt test results on partial cipher length.</td>
+		<td><img src="assets/images/SC_PCL_Test.png" alt=""></td>
+	</tr>
+</table>
+
 ##### Random partial cipher length
+<table>
+	<tr>
+		<td>Simple Crypt train results on random partial cipher length.</td>
+		<td><img src="assets/images/SC_RPCL_Train.png" alt=""></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td>Simple Crypt test results on random partial cipher length.</td>
+		<td><img src="assets/images/SC_RPCL_Test.png" alt=""></td>
+	</tr>
+</table>
 
 #### AES
 ##### Full cipher length
+<table>
+	<tr>
+		<td>AES train results on full cipher length.</td>
+		<td><img src="assets/images/AES_FCL_Train.png" alt=""></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td>AES test results on full cipher length.</td>
+		<td><img src="assets/images/AES_FCL_Test.png" alt=""></td>
+	</tr>
+</table>
+
 ##### Partial cipher length
+<table>
+	<tr>
+		<td>AES train results on partial cipher length.</td>
+		<td><img src="assets/images/AES_PCL_Train.png" alt=""></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td>AES test results on partial cipher length.</td>
+		<td><img src="assets/images/AES_PCL_Test.png" alt=""></td>
+	</tr>
+</table>
+
 ##### Random partial cipher length
+<table>
+	<tr>
+		<td>AES train results on random partial cipher length.</td>
+		<td><img src="assets/images/AES_RPCL_Train.png" alt=""></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td>AES test results on random partial cipher length.</td>
+		<td><img src="assets/images/AES_RPCL_Test.png" alt=""></td>
+	</tr>
+</table>
 
 #### DES
 ##### Full cipher length
+<table>
+	<tr>
+		<td>DES train results on full cipher length.</td>
+		<td><img src="assets/images/DES_FCL_Train.png" alt=""></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td>DES test results on full cipher length.</td>
+		<td><img src="assets/images/DES_FCL_Test.png" alt=""></td>
+	</tr>
+</table>
+
 ##### Partial cipher length
+<table>
+	<tr>
+		<td>DES train results on partial cipher length.</td>
+		<td><img src="assets/images/DES_PCL_Train.png" alt=""></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td>DES test results on partial cipher length.</td>
+		<td><img src="assets/images/DES_PCL_Test.png" alt=""></td>
+	</tr>
+</table>
+
 ##### Random partial cipher length
+<table>
+	<tr>
+		<td>DES train results on random partial cipher length.</td>
+		<td><img src="assets/images/DES_RPCL_Train.png" alt=""></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td>DES test results on random partial cipher length.</td>
+		<td><img src="assets/images/DES_RPCL_Test.png" alt=""></td>
+	</tr>
+</table>
