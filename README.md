@@ -28,8 +28,6 @@ For having an easier way for adjustment and setup, Docker is used with Nvidia su
 		<td><img src="assets/images/SC_Char_Train.png" alt=""></td>
 	</tr>
 </table>
-
-#### AES
 <table>
 	<tr>
 		<td>Simple Crypt test results on single character dataset.</td>
@@ -37,13 +35,34 @@ For having an easier way for adjustment and setup, Docker is used with Nvidia su
 	</tr>
 </table>
 
-#### DES
+#### AES
 <table>
 	<tr>
 		<td>AES train results on single character dataset.</td>
 		<td><img src="assets/images/AES_Char_Train.png" alt=""></td>
 	</tr>
 </table>
+<table>
+	<tr>
+		<td>AES test results on single character dataset.</td>
+		<td><img src="assets/images/AES_Char_Test.png" alt=""></td>
+	</tr>
+</table>
+
+#### DES
+<table>
+	<tr>
+		<td>DES train results on single character dataset.</td>
+		<td><img src="assets/images/DES_Char_Train.png" alt=""></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td>DES test results on single character dataset.</td>
+		<td><img src="assets/images/DES_Char_Test.png" alt=""></td>
+	</tr>
+</table>
+
 
 ### Word
 #### Simple Crypt
