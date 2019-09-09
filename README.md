@@ -1,3 +1,5 @@
+![Hero project image](assets/hero.png)
+
 # Summary
 This repository introduces new methodology for determining mutual information between secret key and cipher message. The methodology is based on using Artificial Intelligence (AI), specifically   neural networks, to determine correlations that can be found in the weak and medium encryption algorithms. Results show the successful performance of proposed methodology by applying it to the Simple Crypt algorithm (developed for purpose of this work), and today's most security algorithms, AES and DES.
 
