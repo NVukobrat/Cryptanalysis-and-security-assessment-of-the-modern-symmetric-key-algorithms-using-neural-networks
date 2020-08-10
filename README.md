@@ -3,6 +3,9 @@
 # Summary
 This repository introduces new methodology for determining mutual information between secret key and cipher message. The methodology is based on using Artificial Intelligence (AI), specifically   neural networks, to determine correlations that can be found in the weak and medium encryption algorithms. Results show the successful performance of proposed methodology by applying it to the Simple Crypt algorithm (developed for purpose of this work), and today's most security algorithms, AES and DES.
 
+# Citations
+> N. Vukobrat, S. Adamovic, N. Macek, M. Saracevic, M. Gnjatovic (2020), Cryptanalysis and Security Evaluation Using Artificial Neural Networks, Series:  Internet of Everything’s (IoE): Security and Privacy Paradigm (in Book - Integration of WSNs into Internet of Things: A Security Perspective), CRC Press, Taylor & Francis, USA.
+
 # Development environment
 Code for generating the dataset, as well as the code for training the neural networks is developed on Ubuntu 19.04 OS. Following hardware specification consists of:
 - CPU: Intel Core i7-4770 CPU @ 3.40GHz x 8
@@ -282,5 +285,3 @@ For having an easier way for adjustment and setup, Docker is used with Nvidia su
 		<td><img src="assets/images/DES_RPCL_Test.png" alt=""></td>
 	</tr>
 </table>
-
-# Final results using this methodology and algorithm are presented and explained in more details in the research paper.
